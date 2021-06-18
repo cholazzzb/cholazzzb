@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Nic! 👋
 [![Github](https://img.shields.io/github/followers/cholazzzb?label=Follow&style=social)](https://github.com/cholazzzb)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cholazzzb.cholazzzb)
 
