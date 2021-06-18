@@ -13,8 +13,7 @@ I'm a Final Year Engineering Physics Student in Bandung Institute of Technology,
 [personal site]: https://toro-web.web.app/
 [linkedin]: https://www.linkedin.com/in/nicholas-biantoro/
 
-###
-
+#### Github Status:
 ![cholazzzb's github stats](https://github-readme-stats.vercel.app/api?username=cholazzzb&count_private=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cholazzzb&layout=compact)
 
