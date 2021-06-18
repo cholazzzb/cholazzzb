@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a Final Year Engineering Physics Student in Bandung Institute of Technology, Indonesia.
+
+- 🔭 I’m currently working on "Simulator of Formation Control for Multiple Quadrotors" in Next.js and Socket.io
+- 📫 Reach me: https://www.linkedin.com/in/nicholas-biantoro/
+
+[![cholazzzb's github stats](https://github-readme-stats.vercel.app/api?username=cholazzzb&count_private=true&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cholazzzb&layout=compact)
+
 <!--
 **cholazzzb/cholazzzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![cholazzzb's github stats](https://github-readme-stats.vercel.app/api?username=cholazzzb&count_private=true&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cholazzzb&layout=compact)
-
-<a href="https://github.com/cholazzzb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cholazzzb&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/cholazzzb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cholazzzb&layout=compact" />
-</a>
-
-
-
