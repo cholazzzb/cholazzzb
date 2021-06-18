@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Github](https://img.shields.io/github/followers/cholazzzb?label=Follow&style=social)](https://github.com/cholazzzb)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cholazzzb q.cholazzzb)
 
 I'm a Final Year Engineering Physics Student in Bandung Institute of Technology, Indonesia.
 
