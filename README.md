@@ -2,9 +2,9 @@
 [![Github](https://img.shields.io/github/followers/cholazzzb?label=Follow&style=social)](https://github.com/cholazzzb)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cholazzzb.cholazzzb)
 
-I'm a Final Year Engineering Physics Student in Bandung Institute of Technology, Indonesia.
+I'm a Frontend Engineer.
 
-- 🔭 I’m currently working on "Simulator of Formation Control for Multiple Quadrotors" in Next.js and Socket.io
+- 🔭 I’m currently working on "Halma Game and Artificial Intelligence" in Next.js
 
 ![cholazzzb's github stats](https://github-readme-stats.vercel.app/api?username=cholazzzb&count_private=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cholazzzb&layout=compact)
