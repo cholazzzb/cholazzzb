@@ -2,9 +2,9 @@
 [![Github](https://img.shields.io/github/followers/cholazzzb?label=Follow&style=social)](https://github.com/cholazzzb)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cholazzzb.cholazzzb)
 
-I'm a Frontend Engineer.
+I'm a Software Engineer (Frontend).
 
-- 🔭 I’m currently working on "Halma Game and Artificial Intelligence" in Next.js
+- 🔭 I’m currently working on "Halma Game" in Next.js
 
 ![cholazzzb's github stats](https://github-readme-stats.vercel.app/api?username=cholazzzb&count_private=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cholazzzb&layout=compact)
